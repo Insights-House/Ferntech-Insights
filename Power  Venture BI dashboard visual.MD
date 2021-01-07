@@ -9,4 +9,6 @@
 
 # Sales and costs
 
-<img width="635" alt="g_p" src="https://user-images.githubusercontent.com/47668423/103929550-c3741c00-511d-11eb-8f6b-761866f037a5.png">
+<img width="635" alt="sales_costs1" src="https://user-images.githubusercontent.com/47668423/103930455-13071780-511f-11eb-9303-0615b1e63ace.png">
+
+
