@@ -11,4 +11,7 @@ Presentation of the BI  analysis of Ferntech startup
 
 The money goes most on Staff Marketing, R&D Python Developer and IT jobs are best paid. Costs were higher in winter. Costs estimate in two years up to 720000, in 2019 remaining with 300000. Sales were best at the beginningg of the year. In 2019 sales are considerable higher than the previous year. So are the costs.
 
+# Sales and costs
+
+<img width="633" alt="g_p" src="https://user-images.githubusercontent.com/47668423/103929215-4648a700-511d-11eb-87d0-82df2bf64eb6.png">
 
