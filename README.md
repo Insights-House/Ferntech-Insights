@@ -1,6 +1,8 @@
 # Ferntech-Insights
 Presentation of the BI  analysis of Ferntech startup
 
+- [Graphs](#Graphs)
+
 # Graphs 
 
 ![5-Title](https://user-images.githubusercontent.com/47668423/103640276-054f6780-4f50-11eb-9686-e32355fc73d0.jpg)
