@@ -11,7 +11,7 @@ Presentation of the BI  analysis of Ferntech startup
 
 <img width="812" alt="pie costs" src="https://user-images.githubusercontent.com/47668423/103640282-07192b00-4f50-11eb-8ada-281041622fec.png">
 
-# Python dashboard on Gross margins
+# Python Dashboard on Gross Margins
 
 ![py dashboard](https://user-images.githubusercontent.com/47668423/104056203-639a7580-51f0-11eb-86d7-c52bc8089824.png)
 
