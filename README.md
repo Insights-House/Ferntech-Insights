@@ -2,7 +2,7 @@
 Presentation of the BI  analysis of Ferntech startup
 
 - [Graphs](#Graphs)
-- [Python-dashboard-on-Gross-margin](#Python-dashboard-on-Gross-margins)
+- [Gross-Margin-Analysis](#Python-Dashboard-on-Gross-Margins)
 - [Conclusions](#Conclusions-of-the-Analysis)
 
 # Graphs 
