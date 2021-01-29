@@ -1,5 +1,5 @@
 # Ferntech-Insights
-Presentation of the BI  analysis of Ferntech startup
+Presentation of the BI  analysis of Ferntech startup 
 
 - [Graphs](#Graphs)
 - [Gross Margin Analysis](#Python-Dashboard-on-Gross-Margins)
